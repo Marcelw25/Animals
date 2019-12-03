@@ -1,0 +1,22 @@
+.red-background {
+  background-color: red;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.blue-background {
+  background-color: #0000ff;
+}
+#eagle-text{
+  display: none;
+}
+#duck-text{
+  display: none;
+}
+img{
+  display: none;
+  height: 500px;
+  weight: 400px;
+}
